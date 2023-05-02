@@ -1,3 +1,4 @@
+![alt rank](https://www.codewars.com/users/scoskun/badges/large)
 # CodeWars Algorithm Solutions
 This repository contains my solutions to various CodeWars algorithm challenges. Most of the solutions are written in C, but there are a few solutions in Python as well. Link to my profile: https://www.codewars.com/users/scoskun
 
